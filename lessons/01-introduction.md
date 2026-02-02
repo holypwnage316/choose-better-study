@@ -7,7 +7,7 @@ title: Introduction and Overview
 
 [Back to Home](../)
 
-## DON'T FORGET TO PRAY BRYAN
+!! DON'T FORGET TO PRAY 
 
 ## Overview
 
@@ -54,6 +54,12 @@ Ok, let's start getting into David Gordon's Five Models for Making Ethical Decis
 David says each of the models can be thought as question clusters. Each model asks a different set of questions and each of those set of questions bring their own insight to an ethical perspective/decision making process. He goes on to give an example in the book between the law and wisdom models. The law model is primiarly concerned whether or not an action is prescribed or proscribed by God in the Bible - what behaviors are required or what is forbidden. Whereas, the wisdom model asks what kinds of effects and consequences will our decisons have. For example, many proverbs commend and action but don't command an action. However, if we are talking about biblical law, say in Leviticus, those laws are commanding. The wisdom model asks us to think of the possible outcomes our choices could have. What effects could these choices have and how would those ripple out to others. This model's approach is more contemplative than the law model. However, the law model recognizes that there are moments in life where we may not have the time to contemplate and action, and we must act immediately. 
 
 Each of the five models can be thought as its own tool. I'm in the process of finishing my basement at my house. As I've working on framing, putting up insulation, installing electrical wire and outlet boxes, I've needed different tools. My air nailer works great when I'm framing walls on the ground; however, it doesn't help me one bit when I need to drill a hole through the wall studs to run electrical wiring. The models, like the tools I've been using in my basement, are used and working towards the same goal. Each of the models he derived from scripture are necessary, yet insufficient in and of themselves, to inform every ethical quandry that comes our way. Knowing how each of these models work will equip us to be able to make better ethical choices in life.
+
+### Introduction to the Five Models
+TBD
+
+
+!! CLOSE IN PRAYER
 
 ## Discussion Questions
 3. Why might God give us multiple models for ethical decision-making rather than just one?
