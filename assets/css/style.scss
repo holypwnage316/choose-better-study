@@ -4,8 +4,13 @@
 @import "minima";
 
 .wrapper {
-  max-width: 90%;        // use 90% of screen width
-  width: 90%;
-  padding-right: 5%;
-  padding-left: 5%;
+  max-width: 90% !important;
+  width: 90% !important;
+  padding-right: 5% !important;
+  padding-left: 5% !important;
+}
+
+.page-content .wrapper {
+  max-width: 90% !important;
+  width: 90% !important;
 }
