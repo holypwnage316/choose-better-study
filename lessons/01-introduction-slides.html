@@ -24,10 +24,6 @@
             color: var(--r-main-color);
         }
         .reveal .slides section {
-            text-align: left;
-            padding: 0 40px;
-        }
-        .reveal .slides section.center-slide {
             text-align: center;
         }
         .reveal .discussion-question {
@@ -61,7 +57,8 @@
             margin-bottom: 15px;
         }
         .reveal ul {
-            margin-left: 0;
+            display: inline-block;
+            text-align: left;
         }
         .reveal li {
             margin-bottom: 15px;
@@ -380,7 +377,7 @@
             slideNumber: true,
             transition: 'fade',
             transitionSpeed: 'default',
-            center: false,
+            center: true,
             width: 1200,
             height: 700,
             margin: 0.1
