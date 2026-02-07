@@ -1,16 +1,26 @@
 ---
 ---
 
+// Override minima's default content width before importing
+$content-width: 1600px;
+
 @import "minima";
 
 .wrapper {
-  max-width: 98% !important;
+  max-width: none !important;
   width: 98% !important;
   padding-right: 1% !important;
   padding-left: 1% !important;
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
 
 .page-content .wrapper {
-  max-width: 98% !important;
+  max-width: none !important;
+  width: 98% !important;
+}
+
+.site-header .wrapper {
+  max-width: none !important;
   width: 98% !important;
 }
