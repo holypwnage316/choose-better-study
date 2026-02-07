@@ -26,4 +26,4 @@ T. David Gordon is Professor of Religion and Greek at Grove City College. He pre
 
 ## Resources
 
-- [Purchase the book](https://www.amazon.com/Choose-Better-Biblical-Models-Decisions/dp/1629959456)
+- [Purchase the book](https://www.amazon.com/Choose-Better-Biblical-Ethical-Decisions/dp/1629952346)
