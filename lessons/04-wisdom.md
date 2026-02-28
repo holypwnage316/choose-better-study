@@ -5,13 +5,15 @@ title: The Wisdom Model
 
 # The Wisdom Model
 
-[Back to Home](../)
+[Back to Home](../) | [Slides](04-wisdom-slides.html)
 
-## Key Question
+!! DON'T FORGET TO PRAY *(Slides 1–2)*
+
+## Key Question *(Slide 3)*
 
 *What is the likely outcome of this decision?*
 
-## Overview
+## Overview *(Slide 4)*
 
 The Wisdom Model applies prudence and discernment to navigate complex situations where simple commands may not directly apply. Life presents countless decisions where no explicit command exists, and wisdom helps us choose the better path.
 
@@ -25,9 +27,9 @@ The wisdom model helps us answer questions like the following:
 
 To understand why wisdom is so indispensable, we need to see how Scripture itself grounds this model.
 
-> **Discussion:** Think of a major decision you've faced — vocational, relational, or otherwise — where there was no obvious rule to follow. What actually guided you?
+> **Discussion:** Think of a major decision you've faced — vocational, relational, or otherwise — where there was no obvious rule to follow. What actually guided you? *(Slide 5)*
 
-## The Biblical Basis for the Wisdom Model
+## The Biblical Basis for the Wisdom Model *(Slide 6)*
 
 The wisdom model arises from the Bible's teaching regarding our ability to discover the latent capacities and potentials of God's created order — and, of course, from the biblical wisdom literature itself, such as the book of Proverbs and other pragmatic instructions within Scripture. One such example is Paul's statement: "All things are lawful for me, but not all things are helpful" (1 Corinthians 6:12).
 
@@ -35,17 +37,17 @@ Scripture promotes our God-given ability to observe and evaluate the world aroun
 
 That capacity for reflection isn't incidental — it's written into our nature as God's image-bearers.
 
-## The Wisdom Model and Human Nature
+## The Wisdom Model and Human Nature *(Slide 7)*
 
 The wisdom model understands life to consist, ideally, in making wise choices — moment by moment, day by day. Humans are made in the image of a wise God who, by wisdom, created all things. If we do not understand the wisdom within the created order, we are not perceiving that order rightly, because God made the world through his wisdom. We should therefore try to see how wisdom manifests itself in the natural realm.
 
 Humans have the ability to observe and to learn from what they observe, and our choices have consequences. Some of those consequences are in accord with God's will and purposes; others are not. Some contribute to our health; others do not. Some align with the natural order; some do not.
 
-These consequences shouldn't be understood narrowly. The wisdom model does consider behavioral consequences, but it also considers the natural order itself — and the natural order has its own built-in consequences that accord with nature. Take Proverbs 13:1 as an example: "A wise son hears his father's instruction." This naturally produces good consequences, since the father is older, more experienced, and more seasoned than the son. But it is also simply *right* for a son to listen to his father — right in the same way it is right for younger people to honor and respect those older than them.
+*(Slide 8)* These consequences shouldn't be understood narrowly. The wisdom model does consider behavioral consequences, but it also considers the natural order itself — and the natural order has its own built-in consequences that accord with nature. Take Proverbs 13:1 as an example: "A wise son hears his father's instruction." This naturally produces good consequences, since the father is older, more experienced, and more seasoned than the son. But it is also simply *right* for a son to listen to his father — right in the same way it is right for younger people to honor and respect those older than them.
 
 The son should not merely act pragmatically, calculating that his father's counsel was probably better than his own. He should recognize that it is right to honor one's parents — even if the Fifth Commandment didn't exist. David Gordon goes further: a truly wise son does not honor his father merely because he was told to, or out of some consequentialist calculation to avoid punishment. A truly wise son recognizes that honoring his father is part of the very fabric of the social order God created. It is right to honor one's father *per se*, apart from any other consequences.
 
-This is why "understanding" and "wisdom" appear together so frequently in Scripture. David Gordon identified 40 such pairings — let's read a few of them together:
+*(Slide 9)* This is why "understanding" and "wisdom" appear together so frequently in Scripture. David Gordon identified 40 such pairings — let's read a few of them together:
 
 *(Have some folks read these aloud)*
 - 1 Kings 4:29
@@ -56,15 +58,15 @@ This is why "understanding" and "wisdom" appear together so frequently in Script
 
 Notice that these passages consistently treat wisdom and understanding not as synonyms but as partners — and that pairing shapes how the wisdom model actually operates in practice.
 
-> **Discussion:** Gordon argues the truly wise son honors his father not out of calculation, but because it is simply right — part of the fabric of the created order. Does that distinction feel meaningful to you? Have you experienced something like it?
+> **Discussion:** Gordon argues the truly wise son honors his father not out of calculation, but because it is simply right — part of the fabric of the created order. Does that distinction feel meaningful to you? Have you experienced something like it? *(Slide 10)*
 
-## How the Wisdom Model Functions
+## How the Wisdom Model Functions *(Slide 11)*
 
 Unlike the law model, the wisdom model recognizes that different people may apply it in different ways. What works well for one person may not work for another, and the wisdom model is comfortable acknowledging that some things may be proper for one person but not for another.
 
 Take Romans 14 as an example: regarding the observance of a particular day as religiously special, Paul neither requires nor prohibits it. It is neither right nor wrong in itself; the decision must be made on other grounds. Some people find that observing Lent, for example, is very helpful. Others have never tried it or have found it unhelpful — and these differences are perfectly acceptable. The model, like biblical wisdom literature itself, recognizes the paradoxical and ironic nature of life.
 
-That subjectivity is precisely what makes wisdom necessary for the kinds of questions ordinary life throws at us. Let's look at a few examples:
+That subjectivity is precisely what makes wisdom necessary for the kinds of questions ordinary life throws at us. *(Slide 12)* Let's look at a few examples:
 
 *(Pause here — ask the class if they can think of other examples before moving on)*
 - Whether to marry or remain single
@@ -78,11 +80,11 @@ That subjectivity is precisely what makes wisdom necessary for the kinds of ques
 
 Notice two things here: most of these questions are unavoidable, and none of them can be answered by appealing to a specific biblical law. We cannot answer many of life's most important questions — marital, vocational, and otherwise — by citing biblical commands or mandates. Instead, we are called to use wisdom.
 
-> **Discussion:** In what way is the wisdom model's approach to ethical questions partly subjective? Do you find this subjectivity problematic or not? Explain your answer.
+> **Discussion:** In what way is the wisdom model's approach to ethical questions partly subjective? Do you find this subjectivity problematic or not? Explain your answer. *(Slide 13)*
 
-When that calling goes unrecognized, the results are predictable. Christians often substitute wisdom with either invented rules or claims of personal divine guidance. Though well-intentioned, both approaches bypass the ordinary means God has actually appointed for navigating these areas of life: wisdom. Scripture consistently calls us to pursue wisdom precisely because it is essential — and rejecting that appointed means gives us no grounds to expect God to lead us through some other channel instead.
+*(Slide 14)* When that calling goes unrecognized, the results are predictable. Christians often substitute wisdom with either invented rules or claims of personal divine guidance. Though well-intentioned, both approaches bypass the ordinary means God has actually appointed for navigating these areas of life: wisdom. Scripture consistently calls us to pursue wisdom precisely because it is essential — and rejecting that appointed means gives us no grounds to expect God to lead us through some other channel instead.
 
-Expecting God to provide special personal guidance is an understandable but mistaken assumption — one that comes from reading Scripture's exceptional cases of divine direction and treating them as the norm. The Bible itself, through two lines of evidence, shows that such guidance was the exception, not the rule.
+*(Slide 15)* Expecting God to provide special personal guidance is an understandable but mistaken assumption — one that comes from reading Scripture's exceptional cases of divine direction and treating them as the norm. The Bible itself, through two lines of evidence, shows that such guidance was the exception, not the rule.
 
 First, biblical instances of special divine guidance typically involved people with unique covenant roles — kings, prophets, priests. God "leads" Jonah by putting him in a large fish and taking him to Nineveh to prophesy. Most of us would take a car or public transportation to travel. If we genuinely thought Jonah's situation was normal, we would sell our vehicles and wait at the beach for the next fish transport.
 
@@ -90,14 +92,14 @@ Second, there are clear cases where God gave no special guidance even when we mi
 
 This is why the wisdom model must be cultivated long before any specific decision arises. Wisdom builds slowly over time — you can't wait until you face a hard choice to start developing it. It requires a lifetime of reflection, humility, and learning, especially from those older or more experienced. You rarely know in advance which lesson or conversation will be the one that equips you to answer the right question later.
 
-So how does wisdom actually guide a specific choice when the moment arrives? David Gordon argues the model tends to wrestle with the following considerations and questions:
+*(Slide 16)* So how does wisdom actually guide a specific choice when the moment arrives? David Gordon argues the model tends to wrestle with the following considerations and questions:
 - Is there a choice to be made?
   - Every day we make decisions, some weightier, some lighter. Learning to be wise involves learning to make good decisions.
 - Does the Bible (esp wisdom literature) address the matter generally?
   - Scripture speaks broadly to many areas of life — labor, human relationships, child-rearing, food and drink, and human speech — even where it doesn't spell out specific commands.
 - Does the nature of created reality commend one choice rather than another?
   - Creation itself carries moral weight. Consider biological differences between male and female: these differences make human reproduction possible and reflect the order built into our nature. Some choices run with that order; others run against it.
-- Who are the "multitude of counselors" from whom I can learn?
+- *(Slide 17)* Who are the "multitude of counselors" from whom I can learn?
   - Biblically, the fool trusts his own wisdom and opinion (see Proverbs 26:5). In contrast, the wise distrust their own opinions and solicit the counsel of others (see Proverbs 15:22). In making decisions, we should:
     - Solicit a range of opinion
     - Solicit opinions from people whom you know to differ on some matters
@@ -111,11 +113,11 @@ So how does wisdom actually guide a specific choice when the moment arrives? Dav
 
 Taken together, these questions give the wisdom model its distinctive shape — and help explain what sets it apart from simply looking up a rule.
 
-> **Discussion:** What is unique about employing the wisdom model to an ethical dilemma, compared with the other models?
+> **Discussion:** What is unique about employing the wisdom model to an ethical dilemma, compared with the other models? *(Slide 18)*
 
 With a clearer picture of how the model works, it's worth turning to some of the forces that make wisdom harder to acquire and apply.
 
-## Special Challenges to the Wisdom Model
+## Special Challenges to the Wisdom Model *(Slide 19)*
 ### Wisdom and the Dominance of the Law Model
 
 Some evangelical Christians have over-relied on the law model to the point of dismissing human wisdom — the natural, God-given capacity we have as image bearers. This is a mistake. Neglecting wisdom means we stop cultivating it, making us less wise over time.
@@ -124,7 +126,7 @@ The fix isn't choosing one over the other. Divine wisdom (Scripture) is always r
 
 A related threat comes not from theology, but from technology.
 
-### Wisdom and Technology
+### Wisdom and Technology *(Slide 20)*
 
 Technology has progressively undermined our capacity for wisdom across three historical shifts:
 
@@ -152,7 +154,7 @@ To be clear, not all youth are foolish, and not all old people are wise — "no 
 
 Related to this is the sheer pace of modern life, which works against the slow, patient attention wisdom requires.
 
-### The Fast Pace of Life
+### The Fast Pace of Life *(Slide 21)*
 
 Wisdom requires two things that urban, fast-paced life rarely permits: observation (which takes time) and reflection (which takes even more).
 
@@ -164,11 +166,11 @@ The core problem is that simply sitting still and thinking is now countercultura
 
 Gordon closes on a sober note: he doesn't know whether wisdom will survive the combined pressures of the law model's dominance, technology, and youth culture. But he doesn't need to predict it — God commanded wisdom's pursuit, which means living without it is neither safe nor right. Pursue it anyway.
 
-> **Discussion:** Which challenge to the application of the wisdom model affects you most?
+> **Discussion:** Which challenge to the application of the wisdom model affects you most? *(Slide 22)*
 
 Those pressures are real — but they can be resisted with deliberate effort. What's subtler is a mistake that can happen even when we engage wisdom carefully: misreading the very source we're turning to. Even when we go to Scripture's wisdom literature directly, it's easy to read it in ways that distort it.
 
-## Cautions about Wisdom Literature
+## Cautions about Wisdom Literature *(Slide 23)*
 
 The biblical wisdom literature (Proverbs, Ecclesiastes, Job, etc.) is a rich but easily misread source. Gordon flags four characteristics to keep in mind:
 
@@ -179,13 +181,13 @@ The biblical wisdom literature (Proverbs, Ecclesiastes, Job, etc.) is a rich but
 
 Misreading wisdom literature often comes from treating its sayings as absolute laws rather than contextual, partial observations about how life tends to work.
 
-### Wisdom Literature Provides Perspectives, Not Imperatives
+### Wisdom Literature Provides Perspectives, Not Imperatives *(Slide 24)*
 
 Prov. 14:7 illustrates why proverbs must be read as perspectives, not commands. If "leave the presence of a fool" is taken as an imperative, it would require avoiding all unbelievers (whom Scripture calls foolish) — yet Jesus regularly ate with tax collectors and sinners. That can't be right.
 
 Read as a perspective, the point is simply: don't expect to find wisdom from a fool. When you need knowledge, seek out wise people. That's sound, practical counsel. The same sentence that gives wise guidance as a perspective becomes misleading — even absurd — when treated as a binding command. Genre matters.
 
-### Since Wisdom Literature Is Often Partial, Read the Whole
+### Since Wisdom Literature Is Often Partial, Read the Whole *(Slide 25)*
 
 Wisdom literature sometimes quotes foolish or vain perspectives before refuting them. Reading selectively — taking the description without the commentary — leads to exactly the wrong conclusion.
 
@@ -193,7 +195,7 @@ Prov. 9:17, for instance, says "Stolen water is sweet, and bread eaten in secret
 
 Always read the whole passage. Wisdom literature frames and evaluates the perspectives it presents; missing the frame means missing the point — or worse, inverting it.
 
-### Proverbs Are Neither Promises nor Legal Guarantees
+### Proverbs Are Neither Promises nor Legal Guarantees *(Slide 26)*
 
 Proverbs describe tendencies, not guarantees. They observe what typically happens in the natural order — not what will invariably happen in every case.
 
@@ -203,35 +205,33 @@ Franklin vs. Churchill makes the point vividly: "Early to bed, early to rise" is
 
 Treating proverbs as promises or legal guarantees distorts them. They are observations about how life tends to work — reliable enough to guide behavior, but not iron-clad enough to build airtight expectations on.
 
-### Since Wisdom Literature Is Designed to Be Memorable, It Is Not Always Technically or Literally True
-
-Prov. 22:7 says the borrower is "the slave of the lender" — but that's memorable, exaggerated language, not a literal description. A modern mortgage holder isn't actually enslaved. The point is simply that borrowing creates obligation — don't do it carelessly or inconsiderately.
-
-> **Discussion:** How does a proper understanding of the nature and genre of biblical wisdom literature help as we approach seemingly contradictory passages such as the following?
+> **Discussion:** How does a proper understanding of the nature and genre of biblical wisdom literature help as we approach seemingly contradictory passages such as the following? *(Slide 27)*
 >
 > *Answer not a fool according to his folly, lest you be like him yourself.*
 > *Answer a fool according to his folly, lest he be wise in his own eyes.* (Prov. 26:4–5)
 
 Understanding what wisdom literature is — and isn't — also clarifies what we're actually authorized to do with it. This brings us to one of the model's most practical implications.
 
-## The Commend/Command Distinction
+## The Commend/Command Distinction *(Slide 28)*
 
 One of the great benefits of the wisdom model is that it lets us commend what we cannot command. The law model permits commanding what God has explicitly revealed — don't steal, don't murder. But for matters not addressed in Scripture, wisdom lets us offer personal counsel without claiming divine authority behind it.
 
-Evangelist Leighton Ford, for example, recommends reading five psalms and a chapter of Proverbs devotionally each day — working through both books in a month. Gordon has found this practice genuinely helpful. But neither of them would ever command it. They commend it from experience, and leave the decision where it belongs: with the individual.
+*(Slide 29)* Evangelist Leighton Ford, for example, recommends reading five psalms and a chapter of Proverbs devotionally each day — working through both books in a month. Gordon has found this practice genuinely helpful. But neither of them would ever command it. They commend it from experience, and leave the decision where it belongs: with the individual.
 
 This distinction has real implications for how pastors and elders give counsel. When someone comes with a question about an area Scripture doesn't address, some churches refuse to offer any guidance until they've formed an official position — a "holy huddle." The result is either silence or a single, homogenized answer, rather than the "abundance of counselors" Scripture actually commends (Prov. 11:14; 24:6). A church needn't have a position on extrabiblical matters. But its officers, as experienced people, should feel free to offer their own wise opinions personally. Gordon's own church put this into practice by assigning three separate elders to evaluate each ministerial candidate's sermon independently — giving the candidate a range of perspectives rather than one committee verdict.
 
 Wisdom is most useful precisely where law is silent. Demanding a "thus saith the Lord" before offering any counsel doesn't protect people — it impoverishes them.
 
-> **Discussion:** How are you currently cultivating wisdom in your life? Think of a person you know who is marked by wisdom. How might you emulate him or her?
+> **Discussion:** How are you currently cultivating wisdom in your life? Think of a person you know who is marked by wisdom. How might you emulate him or her? *(Slide 30)*
 
 The wisdom model is both the most demanding and the most practical of the four models. It covers the vast terrain of life that law cannot reach — and that terrain includes some of our most consequential choices. It requires humility (we distrust our own opinions), patience (wisdom builds slowly), community (we need counselors), and sustained reflection (wisdom dies without solitude). The commend/command distinction liberates us to offer real guidance to one another without overclaiming divine authority. And reading wisdom literature rightly — as perspective, not promise; as tendency, not guarantee — keeps us from turning good counsel into a new legalism.
 
-## Key Takeaways
+## Key Takeaways *(Slide 31)*
 
 - Many of life's most important decisions — vocational, relational, personal — fall outside the reach of specific biblical commands and require wisdom, not just rule-following
 - Wisdom is not innate; it is cultivated slowly through fear of the Lord, humble observation, sustained reflection, and a multitude of counselors
 - The wisdom literature of Scripture (Proverbs, Ecclesiastes, Job) trains us in wise thinking — but must be read as contextual perspectives and tendencies, not absolute promises or legal guarantees
 - Three forces in modern life actively undermine wisdom: the dominance of the law model, technology's assault on sustained reflection, and a culture that idolizes youth over experience
 - The commend/command distinction allows us to offer wise personal counsel in areas where Scripture is silent — without claiming a "thus saith the Lord" we don't have
+
+!! CLOSE IN PRAYER *(Slide 32)*
