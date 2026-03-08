@@ -13,9 +13,9 @@ title: The Wisdom Model
 
 *What is the likely outcome of this decision?*
 
-## Overview *(Slide 4)*
-
 The Wisdom Model applies prudence and discernment to navigate complex situations where simple commands may not directly apply. Life presents countless decisions where no explicit command exists, and wisdom helps us choose the better path.
+
+## Overview *(Slide 4)*
 
 As we touched on last time, wisdom is a necessary *complement* to the law (and the other three models) if one is to live well. Indeed, it might be more important than the law, _because wisdom is the capacity to observe the true nature of things, and therefore to understand what works and what does not_.
 
