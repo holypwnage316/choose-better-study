@@ -35,7 +35,7 @@ The warfare model draws from three streams of Scripture. First, the Old Testamen
 
 ### Apocalyptic Warfare in the Bible *(Slide 8)*
 
-Scripture's vision of the end of history is consistently military. God appears as a conquering warrior who defeats the enemies of his people and restores order, justice, and peace (Rev. 19:11–21). The conflict is not only earthly — there is warfare in heaven itself, with Michael and his angels fighting the dragon (Rev. 12:7), and the beast waging war against the Lamb (Rev. 17). Even within the churches, Christ threatens war against those who embrace false teaching (Rev. 2). Taken together, these visions make clear that there is no neutrality — righteousness and wickedness, submission to God and resistance to his reign, are utterly incompatible.
+Scripture's vision of the end of history is consistently military. God appears as a conquering warrior who defeats the enemies of his people and restores order, justice, and peace (Rev. 19:11–21). The conflict is not only earthly — there is warfare in heaven itself, with Michael and his angels fighting the dragon (Rev. 12:7), and the beast waging war against the Lamb (Rev. 17). Even within the churches, Christ threatens war against those who embrace false teaching (Rev. 2). Taken together, these visions make clear there is no neutrality — submission to God and resistance to his reign are utterly incompatible.
 
 ### Military Descriptions of the Christian Ministry and the Christian Life *(Slide 9)*
 
@@ -83,7 +83,7 @@ Fifth, knowledge of the enemy. Paul wrote to the Corinthians:
 
 *(Slide 14)* Today, most of us are ignorant of his designs. Could you name five of them? We know Satan tries to break our communion with God and tempt us to sin — but do we know *how* he goes about either? Consider our high-tech culture: what Satan desires most is to disrupt our communion with God, and a world of constant social media, texting, and notifications makes uninterrupted prayer and meditation nearly impossible. We must understand how the Enemy uses the tools of our moment so that we can use those tools deliberately rather than letting them use us.
 
-> **Discussion:** Take a moment — name five of Satan's designs. *(Slide 15)*
+> **Discussion:** Take a moment — name five of Satan's designs for destroying your faith and disrupting your walk with God. *(Slide 15)*
 
 *Answer Key:*
 1. Accusation — he accuses believers before God and within their own conscience (Rev. 12:10; Rom. 8:33–34)
