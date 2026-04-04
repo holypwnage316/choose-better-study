@@ -21,13 +21,7 @@ One of the most common titles for God in the Bible, used 259 times, is *Lord Sab
 
 ## The Biblical Basis for the Warfare Model
 
-The warfare model draws from three streams of Scripture: 
-
-(1) Old Testament typology, where expectations of Christ often take the form of a military king leading God's people to victory; 
-
-(2) apocalyptic passages that frame the whole drama of human history as a war between good and evil, light and darkness; and 
-
-(3) the many New Testament passages that use military language to describe the Christian life — our weapons, our armor, our enemies, our internal conflicts:
+The warfare model draws from three streams of Scripture. First, the Old Testament's typological expectations of Christ often take the form of a military king leading God's people to victory. Second, there are the apocalyptic passages that frame the whole drama of human history as a war between good and evil, light and darkness. Third, there are the many New Testament passages that use military language to describe the Christian life — our weapons, our armor, our enemies, our internal conflicts:
 
 > For though we walk in the flesh, we are not waging war according to the flesh. For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds. (2 Cor. 10:3–4)
 
@@ -59,11 +53,13 @@ A crucial caveat before examining how this model works: none of it is technique.
 
 ### Watchfulness
 
-Armies cannot afford to be caught off guard — which is why standing watch has always been a basic military necessity. Scripture gives the same command to believers, warning that the devil actively hunts for the unprepared (1 Peter 5:8).
+Armies cannot afford to be caught off guard — which is why standing watch has always been a basic military necessity. Scripture gives the same command to believers:
+
+> Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. (1 Peter 5:8)
 
 ### Obedience to Orders
 
-Obedience is a universal feature of military life. The battlefield is not the place for debate — orders are followed. Jesus marveled at the centurion who understood this and applied the same logic to faith:
+The second duty is obedience. Obedience is a universal feature of military life. The battlefield is not the place for debate — orders are followed. Jesus marveled at the centurion who understood this and applied the same logic to faith:
 
 > But the centurion replied, "Lord, I am not worthy to have you come under my roof, but only say the word, and my servant will be healed. For I too am a man under authority, with soldiers under me. And I say to one, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it." When Jesus heard this, he marveled and said to those who followed him, "Truly, I tell you, with no one in Israel have I found such faith." (Matt. 8:8–10)
 
@@ -71,13 +67,15 @@ The warfare model therefore includes everything the law model includes: soldiers
 
 ### Equipment and Preparation
 
-Equipment determines outcomes — American industrial capacity after Pearl Harbor is a prime example: the speed of the Pacific Fleet's rebuild surprised Japan and ultimately overwhelmed the Axis. The cost of equipping a single soldier rose from $170 in WWII to over $17,000 in recent conflicts, reflecting how decisive proper preparation has become. An ill-equipped army loses regardless of courage. Scripture calls believers to the same seriousness: the armor of God (Eph. 6) and weapons with divine power (2 Cor. 10:3–6).
+Third, equipment. Equipment determines outcomes — American industrial capacity after Pearl Harbor is a prime example: the speed of the Pacific Fleet's rebuild surprised Japan and ultimately overwhelmed the Axis. The cost of equipping a single soldier rose from $170 in WWII to over $17,000 in recent conflicts, reflecting how decisive proper preparation has become. An ill-equipped army loses regardless of courage. Scripture calls believers to the same seriousness: the armor of God (Eph. 6) and weapons with divine power (2 Cor. 10:3–6).
 
 ### Strategy — Offensive and Defensive
 
-Military strategy operates on two fronts. Offensively, commanders determine where they can achieve the greatest victories; defensively, they identify their own weaknesses and work to protect them. The key questions are: where would a victory be most significant? Where would a defeat be most costly? Where is the enemy weak? Where am I weak? Believers must think in these same terms — developing plans to take ground not currently ours, while honestly assessing personal, ecclesiastical, and cultural vulnerabilities the Enemy might exploit.
+Fourth, strategy. Military strategy operates on two fronts. Offensively, commanders determine where they can achieve the greatest victories; defensively, they identify their own weaknesses and work to protect them. The key questions are: where would a victory be most significant? Where would a defeat be most costly? Where is the enemy weak? Where am I weak? Believers must think in these same terms — developing plans to take ground not currently ours, while honestly assessing personal, ecclesiastical, and cultural vulnerabilities the Enemy might exploit.
 
 ### Knowledge of the Enemy
+
+Fifth, knowledge of the enemy. Paul wrote to the Corinthians:
 
 > What I have forgiven, if I have forgiven anything, has been for your sake in the presence of Christ, so that we would not be outwitted by Satan; for we are not ignorant of his designs. (2 Cor. 2:10–11)
 
@@ -85,15 +83,14 @@ Today, most of us are ignorant of his designs. Could you name five of them? We k
 
 > **Discussion:** Take a moment — name five of Satan's designs.
 
-> Answer Key:   
-  1. Accusation — he accuses believers before God and within their own conscience (Rev. 12:10; Rom. 8:33–34)  
-  2. Deception — he disguises himself as an angel of light and distorts truth (2 Cor. 11:14; John 8:44)       
-  3. Temptation to sin — exploiting the flesh's desires to draw us away from obedience (1 Cor. 7:5; Gen. 3)   
-  4. Disrupting communion with God — crowding out prayer, Scripture, and worship through distraction and busyness
-  5. Division — sowing discord in churches and relationships (Eph. 4:26–27 — "do not give the devil a         
-  foothold")        
-  6. Doubt — attacking faith in God's word and goodness, as he did in the garden ("Did God actually say...?")
-  7. Pride — the root sin he fell by, and what he stokes in us (1 Tim. 3:6) 
+*Answer Key:*
+1. Accusation — he accuses believers before God and within their own conscience (Rev. 12:10; Rom. 8:33–34)
+2. Deception — he disguises himself as an angel of light and distorts truth (2 Cor. 11:14; John 8:44)
+3. Temptation to sin — exploiting the flesh's desires to draw us away from obedience (1 Cor. 7:5; Gen. 3)
+4. Disrupting communion with God — crowding out prayer, Scripture, and worship through distraction and busyness
+5. Division — sowing discord in churches and relationships (Eph. 4:26–27)
+6. Doubt — attacking faith in God's word and goodness, as he did in the garden ("Did God actually say...?")
+7. Pride — the root sin he fell by, and what he stokes in us (1 Tim. 3:6)
 
 ## Special Challenges to the Warfare Model
 
@@ -145,6 +142,8 @@ These examples also show how the five models work together. A question that is s
 
 ## Key Takeaways
 
-- The Christian life involves real spiritual conflict
-- Our choices have kingdom significance
-- Victory is assured in Christ, but vigilance is required
+- Beneath all of history is a real war — between God and Satan, good and evil, life and death
+- Every decision we make either serves the forces of good or the forces of evil
+- The Christian life requires watchfulness, obedience, preparation, strategy, and knowledge of the Enemy
+- Satan's primary weapons are deceit and desire; ours are faith and repentance
+- Victory is certain — Christ has already crushed the Serpent — but vigilance is still required
